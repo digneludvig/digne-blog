@@ -1,6 +1,6 @@
 +++
 # date = '2026-04-02T15:21:52+02:00'
-draft = true
+draft = false
 title = 'About'
 author = 'Ludvig Digné'
 +++
