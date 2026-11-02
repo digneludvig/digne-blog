@@ -1,7 +1,7 @@
 baseURL = 'https://blog.digne.no/'
 locale = 'en-us'
-title = 'My New Hugo Project'
-theme = 'hugo-xmin'
+title = 'Ludvig Digné'
+theme = 'hugo-PaperMod'
 dateFormat = '2 January 2006'
 
 [[menus.main]]
