@@ -1,7 +1,7 @@
-baseURL = 'https://blog.digne.no/'
+# baseURL = ''
 locale = 'en-us'
 title = 'My New Hugo Project'
-theme = 'xmin'
+theme = 'hugo-xmin'
 dateFormat = '2 January 2006'
 
 [[menus.main]]
