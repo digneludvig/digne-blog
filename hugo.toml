@@ -22,6 +22,7 @@ home = ['HTML', 'RSS', 'JSON']   # JSON is needed only if you add a search page
     noClasses = false
 
 [params]
+mainSections = ['posts']
 author = 'Ludvig Digné'
 description = 'Personal blog of Ludvig Digné'
 keywords = ['Blog']
@@ -39,16 +40,16 @@ ShowToc = true
 TocOpen = false
 
 [params.homeInfoParams]
-Title = 'Hi there 👋'
-Content = 'Welcome to my blog.'
+Title = 'Tinkering with computer networking, radio, and possibly other things'
+Content = 'I may write here occasionally -- mostly for personal reference.'
 
 [[params.socialIcons]]
-name = 'github'
-url = 'https://github.com/your-username'
+name = 'linkedin'
+url = 'https://www.linkedin.com/in/ludvig-d-bbbba2b4/'
 
 [[params.socialIcons]]
 name = 'email'
-url = 'mailto:you@example.com'
+url = 'mailto:ludvig@digne.se'
 
 [[menus.main]]
 identifier = 'posts'
@@ -56,7 +57,7 @@ name = 'Posts'
 url = '/posts/'
 weight = 1
 
-[[menus.main]]
+# [[menus.main]]
 # identifier = 'tags'
 # name = 'Tags'
 # url = '/tags/'
