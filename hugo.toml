@@ -1,8 +1,9 @@
 baseURL = 'https://blog.digne.no/'
 locale = 'en-us'
 title = 'Ludvig Digné'
-theme = 'hugo-PaperMod'
+theme = 'PaperMod'
 dateFormat = '2 January 2006'
+author = 'Ludvig Digné'
 
 [[menus.main]]
 name = 'Home'
