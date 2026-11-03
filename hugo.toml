@@ -51,6 +51,11 @@ url = 'https://www.linkedin.com/in/ludvig-d-bbbba2b4/'
 name = 'email'
 url = 'mailto:ludvig@digne.se'
 
+[params.assets]
+favicon = '/protocol.svg'
+favicon16x16 = '/protocol.svg'
+favicon32x32 = '/protocol.svg'
+
 [[menus.main]]
 identifier = 'posts'
 name = 'Posts'
