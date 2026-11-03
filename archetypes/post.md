@@ -1,0 +1,13 @@
+---
+title: '{{ replace .File.ContentBaseName "-" " " | title }}'
+date: {{ .Date }}
+draft: true
+tags: []
+description: ''
+showToc: true
+cover:
+  image: ''
+  alt: ''
+  caption: ''
+  relative: true
+---
